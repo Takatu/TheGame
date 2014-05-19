@@ -1,0 +1,10 @@
+UE4.opensdf
+UE4.sdf
+UE4.sln
+UE4.suo
+UE4.*.suo
+
+GameName/Binaries/
+GameName/DerivedDataCache/
+GameName/Intermediate/
+GameName/Saved/
