@@ -2,6 +2,8 @@
 *.sdf
 *.sln
 *.suo
+client.bat
+server.bat
 
 Binaries/*
 DerivedDataCache/*
