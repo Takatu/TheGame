@@ -4,6 +4,8 @@
 *.suo
 *.exe
 *.pdb
+*.lib
+*.exp
 client.bat
 server.bat
 
