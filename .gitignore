@@ -2,10 +2,11 @@
 *.sdf
 *.sln
 *.suo
+*.exe
+*.pdb
 client.bat
 server.bat
 
-Binaries/*
 DerivedDataCache/*
 Intermediate/*
 Saved/*
