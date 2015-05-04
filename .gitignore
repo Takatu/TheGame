@@ -12,3 +12,4 @@ server.bat
 DerivedDataCache/*
 Intermediate/*
 Saved/*
+Build/*
